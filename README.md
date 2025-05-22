@@ -1,2 +1,4 @@
 # Codec-Techonology-Intership-
-2 Intership Projects
+Two Intership Projects
+1.Customer Churn Prediction
+2.Social Media Engagement Dashboard
